@@ -98,7 +98,7 @@
     
     
     labels.jpg
-    ![F1_curve.png](/Presentation%20Images/hold-out/labels.jpg)
+    ![F1_curve.png](Presentation%20Images/hold-out/labels.jpg)
     
     PR_curve.png
     
