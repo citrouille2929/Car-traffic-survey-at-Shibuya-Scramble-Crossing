@@ -219,7 +219,7 @@
 ![vehicles_per_hour_line.png](Presentation%20Images/5.12graph/vehicles_per_hour_line.png)
 
 個別グラフ
-![vehicles_per_hour_small_multiples.png](doc/Presentation%20Images/5.12graph/vehicles_per_hour_small_multiples.png)
+![vehicles_per_hour_small_multiples.png](Presentation%20Images/5.12graph/vehicles_per_hour_small_multiples.png)
 
 
 ### 2024年5月13日の1時間毎の折れ線グラフ
@@ -228,7 +228,7 @@
 ![vehicles_per_hour_line.png](Presentation%20Images/5.13graph/vehicles_per_hour_line.png)
 
 個別グラフ
-![vehicles_per_hour_small_multiples.png](doc/Presentation%20Images/5.13graph/vehicles_per_hour_small_multiples.png)
+![vehicles_per_hour_small_multiples.png](Presentation%20Images/5.13graph/vehicles_per_hour_small_multiples.png)
 
 - その他グラフは以下から見る事が出来ます
     - [2024-5-12graph](Presentation%20Images/5.12graph)
