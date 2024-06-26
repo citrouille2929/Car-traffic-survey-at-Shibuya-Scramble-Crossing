@@ -98,7 +98,7 @@
     
     
     labels.jpg
-    ![labels.jpg](Presentation Images/hold-out/labels)
+    ![labels.jpg](doc/Presentation Images/5.12graph)
     
     PR_curve.png
     
