@@ -23,7 +23,7 @@
 ## プロジェクト詳細
 
 - doc内のプレゼンテーション.mdをご確認ください。
-    - [Presentation.md](Presentation.md)
+    - [Presentation.md](doc/Presentation.md)
 
 ## 開発環境
 
