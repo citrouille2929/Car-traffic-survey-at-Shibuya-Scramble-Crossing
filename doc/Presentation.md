@@ -98,7 +98,7 @@
     
     
     labels.jpg
-    ![F1_curve.png](https://github.com/citrouille2929/shibuya/blob/main/doc/k-fold_images/train/F1_curve.png)
+    ![F1_curve.png](https://github.com/citrouille2929/shibuya/blob/main/doc/Presentation%20Images/hold-out/labels.jpg)
     
     PR_curve.png
     
