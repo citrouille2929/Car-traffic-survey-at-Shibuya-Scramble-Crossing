@@ -98,7 +98,7 @@
     
     
     labels.jpg
-    ![labels.jpg](doc/Presentation Images)
+    ![labels.jpg](doc/k-fold_images/train/F1_curve.png)
     
     PR_curve.png
     
