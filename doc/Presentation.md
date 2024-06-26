@@ -138,13 +138,14 @@
 - **実装した結果画像の一部**
     
     
-    result.png
-    
+    result1.png
+    ![result.png](Presentation%20Images/k-fold/result1/results.png)
     train1_PR_curve.png
-    
+    ![PR_curve.png](Presentation%20Images/k-fold/result1/PR_curve.png)
     result2.png
-    
+    ![result.png](Presentation%20Images/k-fold/result2/results.png)
     train2_PR_curve.png
+    ![PR_curve.png](Presentation%20Images/k-fold/result2/PR_curve.png)
     
 
 ### 結果の考察
@@ -168,13 +169,14 @@
     
 - **実装した結果画像の一部**
 
-result1
-
-result2
-
-PR_curve1.png
-
-PR_curve2.png
+    result1.png
+    ![result.png](Presentation%20Images/StratifiedKFold/train1/results.png)
+    train1_PR_curve.png
+    ![PR_curve.png](Presentation%20Images/StratifiedKFold/train1/PR_curve.png)
+    result2.png
+    ![result.png](Presentation%20Images/StratifiedKFold/train2/results.png)
+    train2_PR_curve.png
+    ![PR_curve.png](Presentation%20Images/StratifiedKFold/train2/PR_curve.png)
 
 ### 結果の考察
 
