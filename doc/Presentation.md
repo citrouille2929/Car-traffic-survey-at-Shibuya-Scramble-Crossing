@@ -101,10 +101,13 @@
     ![F1_curve.png](Presentation%20Images/hold-out/labels.jpg)
     
     PR_curve.png
+    ![PR_curve.png](Presentation%20Images/hold-out/PR_curve.png)
     
     result.png
+    ![result.png](Presentation%20Images/hold-out/results.png)
     
     F1_curve.png
+    ![F1_curve.png](Presentation%20Images/hold-out/F1_curve.png)
     
 
 ### 結果の考察
