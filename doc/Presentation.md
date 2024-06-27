@@ -33,19 +33,19 @@
     - 分類の決め方
         - 画像に出てきた車両を確認し、下記の表のように分類を行う事にしました。
     
-    | ラベル名 |  |
-    | --- | --- |
-    | ambulance | 救急車 |
-    | bicycle | 自転車 |
-    | bus | バス |
-    | cab | タクシー |
-    | car | 乗用車 |
-    | garbage truck | ゴミ収集車 |
-    | go-cart | ゴーカート |
-    | go-carts | 複数のゴーカート |
-    | motorcycle | バイク |
-    | police car | 警察車両 |
-    | truk | トラック |
+    | ID | ラベル名 | 日本語 |
+    | --- | --- | --- |
+    |0| ambulance | 救急車 |
+    |1| bicycle | 自転車 |
+    |2| bus | バス |
+    |3| cab | タクシー |
+    |4| car | 乗用車 |
+    |5| garbage truck | ゴミ収集車 |
+    |6| go-cart | ゴーカート |
+    |7| go-carts | 複数のゴーカート |
+    |8| motorcycle | バイク |
+    |9| police car | 警察車両 |
+    |10| truk | トラック |
 
 ## モデルの選定
 
